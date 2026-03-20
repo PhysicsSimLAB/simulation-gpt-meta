@@ -1,8 +1,7 @@
 # Simulation-GPT • Privacy Notice
 
 **Who we are**  
-Simulation-GPT is an automation assistant that creates and manages physics-experiment repositories in the  
-:contentReference[oaicite:0]{index=0} organisation **PhysicsSimLAB**.
+Simulation-GPT is an automation assistant that creates and manages physics-experiment repositories in the organisation **PhysicsSimLAB**.
 
 ---
 
